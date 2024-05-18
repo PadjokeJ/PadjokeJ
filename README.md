@@ -1,4 +1,7 @@
 # PadjokeJ
-swiss coder
-speaks FR and ENG
+Christian coder from Switzerland
+- Speaks FR and ENG
+
 Discord for inquiries: padjokej
+
+Python, Java, C#
