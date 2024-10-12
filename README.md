@@ -29,4 +29,4 @@ I code in:
 
 Check out [Silva Sanctus](https://padjokej.itch.io/silva-sanctus) on my [itch.io page](https://padjokej.itch.io), and give me feedback!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadjokeJ&size_weight=1&theme=transparent&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-tau-teal-80.vercel.app/api/top-langs/?username=PadjokeJ&size_weight=1&theme=transparent&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
