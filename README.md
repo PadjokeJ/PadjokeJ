@@ -1,6 +1,7 @@
 # PadjokeJ✝️🇨🇭  
 
-Christian coder and gamedev from Switzerland
+Christian coder and game developer from Switzerland  
+Find my links and more on <https://padjokej.dev>  
 
 - Speaks FR and ENG  
 
