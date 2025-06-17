@@ -3,9 +3,9 @@
 Christian coder and game developer from Switzerland  
 Find my links and more on <https://padjokej.dev>  
 
-- Speaks FR and ENG  
+I speaks French, English and Python
 
-Feel free to contact me on discord for inquiries: padjokej
+Feel free to contact me on discord for inquiries: [@padjokej](https://discordapp.com/users/480308637089398795)
 
 I code in:  
 <p align="left">
