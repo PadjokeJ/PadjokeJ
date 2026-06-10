@@ -6,7 +6,7 @@ Find my links and more on <https://padjokej.dev>
 Currently studying CS at [EPFL](https://epfl.ch):  
 - [See my lecture notes](https://notes.padjokej.dev)
 - During my first year I learnt Java, Verilog and RISC-V
-- I made extensions to the projects we had to do; [adding a video player to a dungeon crawler](https://github.com/PadjokeJ/MP02-JeuSurGrille) and [adding remote multiplayer to a board game](https://github.com/PadjokeJ/Azul)
+- I made extensions to the projects we had to do; [adding a video player to a dungeon crawler](https://github.com/PadjokeJ/MP02-JeuSurGrille) and [adding remote multiplayer to a board game](https://github.com/PadjokeJ/Ajul)
 
 I speak French and English  
 
