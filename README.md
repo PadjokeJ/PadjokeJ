@@ -35,5 +35,5 @@ I code in:
 </a>
 </div>
 
-![Top Languages](https://github-readme-stats-tau-teal-80.vercel.app/api/top-langs/?username=PadjokeJ&theme=transparent&hide=ShaderLab,HLSL,CSS&exclude_repo=MP02-JeuSurGrille,quartz)
+![Top Languages](https://github-readme-stats-tau-teal-80.vercel.app/api/top-langs/?username=PadjokeJ&theme=transparent&hide=ShaderLab,HLSL,CSS&exclude_repo=MP02-JeuSurGrille,lecture-notes)
 
